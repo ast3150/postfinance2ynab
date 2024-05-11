@@ -1,6 +1,6 @@
 # postfinance2ynab
 
-Simple formatter to transform PostFinance account statement CSV format to a format usable for import in [YNAB](youneedabudget.com)
+Simple formatter to transform PostFinance account statement CSV format to a format usable for import in [YNAB](https://youneedabudget.com)
 
 # Installation
 
